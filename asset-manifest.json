@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SpriteEra-Quiz_App/static/css/main.2b13c279.css",
+    "main.js": "/SpriteEra-Quiz_App/static/js/main.1f014d54.js",
+    "static/media/ReactBackground.jpg": "/SpriteEra-Quiz_App/static/media/ReactBackground.d7eef78c7df1d04469b5.jpg",
+    "index.html": "/SpriteEra-Quiz_App/index.html",
+    "main.2b13c279.css.map": "/SpriteEra-Quiz_App/static/css/main.2b13c279.css.map",
+    "main.1f014d54.js.map": "/SpriteEra-Quiz_App/static/js/main.1f014d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b13c279.css",
+    "static/js/main.1f014d54.js"
+  ]
+}
